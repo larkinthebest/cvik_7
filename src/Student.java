@@ -14,6 +14,6 @@ public class Student {
 
 
     public void getinfo(){
-        System.out.println("age" + age + "Name: " + name +  "surname" + surname);
+        System.out.println("age" + age + "Name: " + name +  "surname" + surname + "id" + id);
     }
 }
